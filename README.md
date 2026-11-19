@@ -30,7 +30,6 @@ Websites and web portals I build and maintain for clients. The code lives in pri
 | **SEENCO Financial Services** | Financial and insurance services company. Public website with lead-capture forms, plus a secure portal for advisors and admins: role-based login, deal submission and admin review, contracting, team management, support tickets, payouts and reports. Next.js, TypeScript, NextAuth, Prisma, Resend. |
 | [**Haniyeh Educational Complex**](https://www.haniyehschool.ir) | Bilingual Persian/English school website with separate campus sections, plus an admin panel where staff manage news, gallery, photos and videos, campuses, staff and FAQs. Next.js, TypeScript, Tailwind CSS, Drizzle ORM with Neon Postgres, Vercel Blob. |
 
-All four are built with an AI-first workflow in Claude Code and Codex.
 
 ### 💻 Software
 
