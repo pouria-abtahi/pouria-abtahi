@@ -1,10 +1,10 @@
 ## Hi, I'm Pouria 👋
 
-Engineer and developer based in the Greater Toronto Area. I'm a licensed mechanical engineer (P.Eng) who moved into computing: I hold an Advanced Diploma in Computer Engineering Technology and I'm finishing a B.Sc. in Computer Science.
+Engineer and developer based in the Greater Toronto Area. I'm a licensed mechanical engineer (P.Eng) with a second background in computer engineering: I hold an Advanced Diploma in Computer Engineering Technology and I'm finishing a B.Sc. in Computer Science.
 
 I like work that crosses hardware and software: firmware and PCBs, networks and IT infrastructure, desktop and web apps, and automation. Claude Code and Codex are part of how I build every day.
 
-- 🔭 **Now:** several client projects (private repositories) and my Computer Science degree at Algoma University
+- 🔭 **Now:** client websites (see below) and my Computer Science degree at Algoma University
 - 🌱 **Learning:** cybersecurity (CompTIA Security+)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/pouria-abtahi)
 
@@ -19,6 +19,19 @@ I like work that crosses hardware and software: firmware and PCBs, networks and 
 | [**labjack-servo-capacitor-control**](https://github.com/pouria-abtahi/labjack-servo-capacitor-control) | C + LabJack U3-HV DAQ: analog sensing, 50 Hz servo PWM, threshold logic, plus a custom PCB (PADS schematic, layout, Gerbers). |
 | [**variable-dc-power-supply-lm317**](https://github.com/pouria-abtahi/variable-dc-power-supply-lm317) | Mains-powered 2–14 V bench supply: LM317 design, single-sided PCB, BOM, enclosure build, Hi-Pot and insulation-resistance safety tests. |
 
+### 🌐 Client work
+
+Websites I build and maintain for clients. The code lives in private repositories, so the links go to the live sites.
+
+| Client | What I do |
+|---|---|
+| [**ABT Electric**](https://abtelectric.ca) | Toronto electrical contractor. Service pages, navigation and internal links, contact forms, deployment checks and production QA. |
+| [**CaninC**](https://www.caninc.org) | IT and technology services company. Next.js, React, TypeScript and Tailwind CSS, with SEO, accessibility and performance work. |
+| **SEENCO Financial Services** | Financial and insurance services website. Lead-capture forms, Google Sheets integration and end-to-end QA after each deployment. |
+| [**Haniyeh Educational Complex**](https://www.haniyehschool.ir) | Bilingual Persian/English school website with separate campus sections. Next.js, React, TypeScript and Tailwind CSS. |
+
+All four are built with an AI-first workflow in Claude Code and Codex.
+
 ### 💻 Software
 
 | Project | What it shows |
@@ -29,10 +42,11 @@ I like work that crosses hardware and software: firmware and PCBs, networks and 
 
 ### 🧰 Toolbox
 
-- **Languages:** C · C# · Python · Java · SQL · PowerShell
+- **Languages:** C · C# · Python · Java · TypeScript / JavaScript · SQL · PowerShell
+- **Web:** Next.js · React · Tailwind CSS · HTML/CSS · Vercel
 - **Embedded:** FreeRTOS · ARM Cortex-M (NXP Kinetis) · Raspberry Pi · UART / SPI / I²C · GPIO, timers, PWM, interrupts · MCUXpresso
 - **Hardware:** PADS · Proteus · multimeter, oscilloscope, soldering
-- **Networks & IT:** Cisco networking · Linux · Windows · CompTIA A+ and Network+
+- **Networks & IT:** Cisco networking · Windows Server and Active Directory · Linux · Wireshark · Kali Linux security labs · CompTIA A+ and Network+
 - **AI tools:** Claude Code (with `CLAUDE.md`, skills, plugins and MCP servers) · Codex
 
 ### 🤖 How I work with AI agents
