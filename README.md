@@ -1,8 +1,8 @@
 ## Hi, I'm Pouria 👋
 
-Computer Engineering Technology graduate (Seneca Polytechnic, Toronto). I work where hardware meets software: microcontroller firmware, PCB design, sensors and IoT. I build with AI coding agents (Claude Code and Codex) every day.
+Engineer with a mechanical and computer engineering background, now focused on embedded systems: microcontroller firmware, PCB design, sensors and IoT. I build with AI coding agents (Claude Code and Codex) every day.
 
-[LinkedIn](https://www.linkedin.com/in/pouria-abtahi) · Toronto, ON
+[LinkedIn](https://www.linkedin.com/in/pouria-abtahi) · Greater Toronto Area, ON
 
 ---
 
@@ -22,13 +22,21 @@ Computer Engineering Technology graduate (Seneca Polytechnic, Toronto). I work w
 Claude Code is my main development tool, with Codex alongside it. I don't just prompt; I set up the environment the agent works in:
 
 - **Project instructions:** a `CLAUDE.md` per repo with build commands, hard rules (for example, never hand-edit generated code) and how to verify a change.
-- **Custom skills:** I've written my own library of Claude Code skills for code review, safe git/release, production debugging, visual QA and project context.
-- **Plugins and MCP:** I use MCP servers and plugins (GitHub, Playwright for browser testing, Context7 for live docs, and others) as part of my daily workflow.
+- **Skills, plugins and MCP:** I use Claude Code skills, plugins and MCP servers (GitHub, Playwright for browser testing, Context7 for live docs, and others) as part of my daily workflow.
 - **Verify, don't trust:** the agent's output has to build, pass CI and get checked in a real browser or on real hardware before I call it done.
 
 ### 💼 Current work
 
 I'm currently working on several client projects (private repositories), all built with an AI-first workflow using Claude Code and Codex.
+
+### 🎓 Background
+
+- **Computer Engineering Technology**, Seneca Polytechnic: Advanced Diploma, 4.0 GPA, High Honours (2024)
+- **Computer Science**, Algoma University: B.Sc., expected Dec 2026
+- **Mechanical Engineering**, Shiraz University: M.Sc. and B.Sc.
+- **Lab technician (co-op)** in Seneca's computer engineering labs: microcontrollers, electronics, networking
+- **IT support**, 2.5+ years · **Mechanical inspection engineer**, 3.5+ years
+- **Certifications:** CompTIA A+ · CompTIA Network+
 
 ### 🧩 Other projects
 
