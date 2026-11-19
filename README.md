@@ -48,10 +48,6 @@ Websites and web portals I build and maintain for clients. The code lives in pri
 - **Networks & IT:** Cisco networking · Windows Server and Active Directory · Linux · Wireshark · Kali Linux security labs · CompTIA A+ and Network+
 - **AI tools:** Claude Code (with `CLAUDE.md`, skills, plugins and MCP servers) · Codex
 
-### 🤖 How I work with AI agents
-
-I don't just prompt; I set up the environment the agent works in. Each repo gets a `CLAUDE.md` with build commands, hard rules and how to verify a change. And nothing is done until it builds, passes CI and has been checked in a real browser or on real hardware.
-
 ### 🎓 Background
 
 - **P.Eng, Mechanical Engineering** (Professional Engineers Ontario) · M.Sc. and B.Sc., Shiraz University
