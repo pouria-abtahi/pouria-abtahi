@@ -1,12 +1,16 @@
 ## Hi, I'm Pouria 👋
 
-Licensed professional engineer (P.Eng, mechanical) with a computer engineering background, now focused on embedded systems: microcontroller firmware, PCB design, sensors and IoT. I build with AI coding agents (Claude Code and Codex) every day.
+Engineer and developer based in the Greater Toronto Area. I'm a licensed mechanical engineer (P.Eng) who moved into computing: I hold an Advanced Diploma in Computer Engineering Technology and I'm finishing a B.Sc. in Computer Science.
 
-[LinkedIn](https://www.linkedin.com/in/pouria-abtahi) · Greater Toronto Area, ON
+I like work that crosses hardware and software: firmware and PCBs, networks and IT infrastructure, desktop and web apps, and automation. Claude Code and Codex are part of how I build every day.
+
+- 🔭 **Now:** several client projects (private repositories) and my Computer Science degree at Algoma University
+- 🌱 **Learning:** cybersecurity (CompTIA Security+)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/pouria-abtahi)
 
 ---
 
-### 🔧 Embedded & hardware projects
+### 🔧 Embedded & hardware
 
 | Project | What it shows |
 |---|---|
@@ -15,31 +19,29 @@ Licensed professional engineer (P.Eng, mechanical) with a computer engineering b
 | [**labjack-servo-capacitor-control**](https://github.com/pouria-abtahi/labjack-servo-capacitor-control) | C + LabJack U3-HV DAQ: analog sensing, 50 Hz servo PWM, threshold logic, plus a custom PCB (PADS schematic, layout, Gerbers). |
 | [**variable-dc-power-supply-lm317**](https://github.com/pouria-abtahi/variable-dc-power-supply-lm317) | Mains-powered 2–14 V bench supply: LM317 design, single-sided PCB, BOM, enclosure build, Hi-Pot and insulation-resistance safety tests. |
 
-**Embedded toolbox:** C · FreeRTOS · ARM Cortex-M (NXP Kinetis) · Raspberry Pi · UART / SPI / I²C · GPIO, timers, PWM, interrupts · MCUXpresso · PADS · Proteus · multimeter, oscilloscope, soldering
+### 💻 Software
 
-### 🤖 How I work: AI-assisted development
+| Project | What it shows |
+|---|---|
+| [**airline-reservation-system**](https://github.com/pouria-abtahi/airline-reservation-system) | C# WinForms desktop app with a SQLite database |
+| [**client-server-shopping-system**](https://github.com/pouria-abtahi/client-server-shopping-system) | C# TCP client/server with a custom protocol |
+| [**basketvr-toss-vr-game**](https://github.com/pouria-abtahi/basketvr-toss-vr-game) | Unity VR physics game |
 
-Claude Code is my main development tool, with Codex alongside it. I don't just prompt; I set up the environment the agent works in:
+### 🧰 Toolbox
 
-- **Project instructions:** a `CLAUDE.md` per repo with build commands, hard rules (for example, never hand-edit generated code) and how to verify a change.
-- **Skills, plugins and MCP:** I use Claude Code skills, plugins and MCP servers (GitHub, Playwright for browser testing, Context7 for live docs, and others) as part of my daily workflow.
-- **Verify, don't trust:** the agent's output has to build, pass CI and get checked in a real browser or on real hardware before I call it done.
+- **Languages:** C · C# · Python · Java · SQL · PowerShell
+- **Embedded:** FreeRTOS · ARM Cortex-M (NXP Kinetis) · Raspberry Pi · UART / SPI / I²C · GPIO, timers, PWM, interrupts · MCUXpresso
+- **Hardware:** PADS · Proteus · multimeter, oscilloscope, soldering
+- **Networks & IT:** Cisco networking · Linux · Windows · CompTIA A+ and Network+
+- **AI tools:** Claude Code (with `CLAUDE.md`, skills, plugins and MCP servers) · Codex
 
-### 💼 Current work
+### 🤖 How I work with AI agents
 
-I'm currently working on several client projects (private repositories), all built with an AI-first workflow using Claude Code and Codex.
+I don't just prompt; I set up the environment the agent works in. Each repo gets a `CLAUDE.md` with build commands, hard rules and how to verify a change. And nothing is done until it builds, passes CI and has been checked in a real browser or on real hardware.
 
 ### 🎓 Background
 
+- **P.Eng, Mechanical Engineering** (Professional Engineers Ontario) · M.Sc. and B.Sc., Shiraz University
 - **Computer Engineering Technology**, Seneca Polytechnic: Advanced Diploma, 4.0 GPA, High Honours (2024)
 - **Computer Science**, Algoma University: B.Sc., expected Dec 2026
-- **Mechanical Engineering**, Shiraz University: M.Sc. and B.Sc.
-- **Lab technician (co-op)** in Seneca's computer engineering labs: microcontrollers, electronics, networking
-- **IT support**, 2.5+ years · **Mechanical inspection engineer**, 3.5+ years
-- **Certifications:** CompTIA A+ · CompTIA Network+
-
-### 🧩 Other projects
-
-- [airline-reservation-system](https://github.com/pouria-abtahi/airline-reservation-system): C# WinForms + SQLite
-- [client-server-shopping-system](https://github.com/pouria-abtahi/client-server-shopping-system): C# TCP client/server with a custom protocol
-- [basketvr-toss-vr-game](https://github.com/pouria-abtahi/basketvr-toss-vr-game): Unity VR physics game
+- 3.5+ years as a mechanical inspection engineer · 2.5+ years in IT support · lab technician co-op in Seneca's computer engineering labs
