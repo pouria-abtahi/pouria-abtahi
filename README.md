@@ -21,14 +21,14 @@ I like work that crosses hardware and software: firmware and PCBs, networks and 
 
 ### 🌐 Client work
 
-Websites I build and maintain for clients. The code lives in private repositories, so the links go to the live sites.
+Websites and web portals I build and maintain for clients. The code lives in private repositories, so the links go to the live sites.
 
 | Client | What I do |
 |---|---|
 | [**ABT Electric**](https://abtelectric.ca) | Toronto electrical contractor. Service pages, navigation and internal links, contact forms, deployment checks and production QA. |
 | [**CaninC**](https://www.caninc.org) | IT and technology services company. Next.js, React, TypeScript and Tailwind CSS, with SEO, accessibility and performance work. |
-| **SEENCO Financial Services** | Financial and insurance services website. Lead-capture forms, Google Sheets integration and end-to-end QA after each deployment. |
-| [**Haniyeh Educational Complex**](https://www.haniyehschool.ir) | Bilingual Persian/English school website with separate campus sections. Next.js, React, TypeScript and Tailwind CSS. |
+| **SEENCO Financial Services** | Financial and insurance services company. Public website with lead-capture forms, plus a secure portal for advisors and admins: role-based login, deal submission and admin review, contracting, team management, support tickets, payouts and reports. Next.js, TypeScript, NextAuth, Prisma, Resend. |
+| [**Haniyeh Educational Complex**](https://www.haniyehschool.ir) | Bilingual Persian/English school website with separate campus sections, plus an admin panel where staff manage news, gallery, photos and videos, campuses, staff and FAQs. Next.js, TypeScript, Tailwind CSS, Drizzle ORM with Neon Postgres, Vercel Blob. |
 
 All four are built with an AI-first workflow in Claude Code and Codex.
 
@@ -43,7 +43,7 @@ All four are built with an AI-first workflow in Claude Code and Codex.
 ### 🧰 Toolbox
 
 - **Languages:** C · C# · Python · Java · TypeScript / JavaScript · SQL · PowerShell
-- **Web:** Next.js · React · Tailwind CSS · HTML/CSS · Vercel
+- **Web:** Next.js · React · Tailwind CSS · NextAuth · Prisma / Drizzle ORM · PostgreSQL (Neon) · Vercel
 - **Embedded:** FreeRTOS · ARM Cortex-M (NXP Kinetis) · Raspberry Pi · UART / SPI / I²C · GPIO, timers, PWM, interrupts · MCUXpresso
 - **Hardware:** PADS · Proteus · multimeter, oscilloscope, soldering
 - **Networks & IT:** Cisco networking · Windows Server and Active Directory · Linux · Wireshark · Kali Linux security labs · CompTIA A+ and Network+
