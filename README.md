@@ -1,6 +1,6 @@
 ## Hi, I'm Pouria 👋
 
-Engineer with a mechanical and computer engineering background, now focused on embedded systems: microcontroller firmware, PCB design, sensors and IoT. I build with AI coding agents (Claude Code and Codex) every day.
+Licensed professional engineer (P.Eng) with a mechanical and computer engineering background, now focused on embedded systems: microcontroller firmware, PCB design, sensors and IoT. I build with AI coding agents (Claude Code and Codex) every day.
 
 [LinkedIn](https://www.linkedin.com/in/pouria-abtahi) · Greater Toronto Area, ON
 
