@@ -57,5 +57,5 @@ I don't just prompt; I set up the environment the agent works in. Each repo gets
 
 - **P.Eng, Mechanical Engineering** (Professional Engineers Ontario) · M.Sc. and B.Sc., Shiraz University
 - **Computer Engineering Technology**, Seneca Polytechnic: Advanced Diploma, 4.0 GPA, High Honours (2024)
-- **Computer Science**, Algoma University: B.Sc., expected Dec 2026
-- 3.5+ years as a mechanical inspection engineer · 2.5+ years in IT support · lab technician co-op in Seneca's computer engineering labs
+- **Computer Science**, Algoma University: B.Sc., expected 2027
+- 3.5+ years as a mechanical engineer · 2.5+ years in IT support · lab technician co-op in Seneca's computer engineering labs
