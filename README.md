@@ -53,12 +53,17 @@ All four come from my Computer Engineering Technology program at Seneca.
 
 ## Infrastructure and security labs
 
-These were done in virtual machines for my Seneca courses. They aren't on GitHub yet.
+All of these ran on virtual machines for my Seneca courses.
+
+| Lab | What it shows |
+|---|---|
+| [**security-incident-simulation-lab**](https://github.com/pouria-abtahi/security-incident-simulation-lab) | Attacker and defender in one lab: Nessus scans (20 critical findings on Metasploitable 3), a Covenant C2 compromise of Windows 10 by phishing, then detection in Security Onion and cleanup. Team of two. *(Summer 2024)* |
+| [**linux-network-services-lab**](https://github.com/pouria-abtahi/linux-network-services-lab) | Fedora server and client: DHCP, BIND DNS, NFS, Samba, mail, Apache and Roundcube, CUPS, VNC over SSH, and a firewalld gateway with NAT. Configs and screenshots. *(Winter 2024)* |
+
+Not on GitHub, because I don't have the files anymore:
 
 - **Active Directory domain:** multi-VM setup with a domain controller, OUs and security groups. Group Policy for password policy, account lockout, USB restriction and drive mapping.
-- **Small-office network services:** Windows Server 2022 with DHCP scopes, forward and reverse DNS zones, internal IIS sites and Defender Firewall rules.
-- **Linux file and service server:** Fedora in VMware with systemctl, firewalld, SSH keys, Samba and NFS shares, tested from Windows and Linux clients.
-- **Authorized vulnerability assessment:** Nmap, Nessus and Metasploit against deliberately vulnerable VMs on an isolated network.
+- **Small-office network services:** Windows Server with DHCP scopes, forward and reverse DNS zones, internal IIS sites and Defender Firewall rules.
 - **Packet analysis:** Wireshark captures matched against ipconfig, nslookup, tracert and netstat output.
 
 ## Toolbox
