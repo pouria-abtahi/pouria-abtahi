@@ -39,7 +39,7 @@ All four come from my Computer Engineering Technology program at Seneca.
 | Project | What it shows |
 |---|---|
 | [**freertos-emergency-shutdown-k64f**](https://github.com/pouria-abtahi/freertos-emergency-shutdown-k64f) | FreeRTOS firmware on an NXP Cortex-M4F: two tasks and a software timer synced by semaphores, with GPIO interrupts for emergency shutdown and a PIT interrupt for the alarm LED. CMake build and GitHub Actions CI. *(Fall 2024)* |
-| [**advanced-iot-weather-station**](https://github.com/pouria-abtahi/advanced-iot-weather-station) | Raspberry Pi weather station in Python: temperature, humidity, rain and wind sensors over an SPI ADC, an LCD, GSM/SMS alerts for severe weather, a Blynk dashboard and a custom PCB. *(Fall 2024)* |
+| [**advanced-iot-weather-station**](https://github.com/pouria-abtahi/advanced-iot-weather-station) | Raspberry Pi weather station in Python: temperature, humidity, rain and wind sensors over an SPI ADC, an LCD, GSM/SMS alerts for severe weather, a Blynk dashboard and a custom PCB. Team project. *(Fall 2024)* |
 | [**variable-dc-power-supply-lm317**](https://github.com/pouria-abtahi/variable-dc-power-supply-lm317) | Mains-powered bench supply, adjustable from about 2 V to 14 V, built around an LM317. Single-sided PCB in PADS, Gerbers, BOM, enclosure, and Hi-Pot and insulation-resistance safety tests. Team project. *(Winter 2024)* |
 | [**labjack-servo-capacitor-control**](https://github.com/pouria-abtahi/labjack-servo-capacitor-control) | A C program on a LabJack U3-HV reads a capacitor's voltage and drives a servo (50 Hz PWM) and an LED when it crosses a set threshold. Includes the PCB I designed for it. *(Winter 2023)* |
 
@@ -49,7 +49,7 @@ All four come from my Computer Engineering Technology program at Seneca.
 |---|---|
 | [**client-server-shopping-system**](https://github.com/pouria-abtahi/client-server-shopping-system) | C# client and server that talk over TCP with a custom command protocol. Supports multiple clients, logins, inventory and orders. |
 | [**airline-reservation-system**](https://github.com/pouria-abtahi/airline-reservation-system) | C# Windows Forms app on SQLite: flight search, purchases, receipts. |
-| [**basketvr-toss-vr-game**](https://github.com/pouria-abtahi/basketvr-toss-vr-game) | Unity VR basketball game with grab-and-throw physics and scoring. |
+| [**basketvr-toss-vr-game**](https://github.com/pouria-abtahi/basketvr-toss-vr-game) | Unity VR basketball game with grab-and-throw physics and scoring. Team project, I was the developer. |
 
 ## Infrastructure and security labs
 
